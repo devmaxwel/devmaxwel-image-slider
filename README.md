@@ -1,0 +1,1 @@
+# devmaxwel-image-slider
